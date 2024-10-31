@@ -32,7 +32,6 @@ details = {
     "10": {"specs": "Snapdragon 888, 128GB Storage, 6000 mAh Battery", "customerReviews": []}
 }
 
-
 # Endpoint untuk daftar produk
 class ProductList(Resource):
     def get(self):
